@@ -1,0 +1,99 @@
+.topBar{
+    color: black;
+    border-radius: 0px 0px 10px 10px;
+    border-bottom: solid;
+    padding: 10px;
+    font-size: 32px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: red;
+    box-shadow: 50px;
+}
+
+.topOfCard {
+    color: white;
+}
+.topOfCard h2{
+    width: 1%;
+    color: white;
+}
+
+.topOfCard h3{
+    width: 200%;
+    color: white;
+}
+/*set the manager card to be different from the other cards */
+.managerCard{
+    color: black;
+    list-style: none;
+    padding-left: 40%;
+    display: inline-flex;
+    border: solid;
+    border-color: black;
+    border-radius: 20px 10px 10px 20px;
+    width: 100%;
+    border-width: 0px 0px 0px 10px;
+    background: linear-gradient(0deg, #cfcfcf 60%, blue 40%);
+    }
+
+
+
+/*set the list style to  have a border on the manager card */
+.managerCard li{
+    background-color: white;
+    width: 300%;
+    list-style: none;
+    border: solid;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+
+/*set the */
+.roleCardEngin {
+    border: solid;
+    border-color: black;
+    border-radius: 20px 10px 10px 20px;
+    width: 100%;
+    border-width: 0px 0px 0px 5px;
+    display: inline-flex;
+    background-color: darkgrey;
+    margin: 10px;
+    width: 31%;
+    background: linear-gradient(0deg, #cfcfcf 55%, rgb(7, 145, 44) 45%);
+}
+/*set role card list style */
+.roleCardEngin li{
+    list-style: none;
+    background-color: white;
+    width: 300px;
+    border: solid;
+    border-width: 1px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+
+.roleCardIntern {
+    border: solid;
+    border-color: black;
+    border-radius: 20px 10px 10px 20px;
+    width: 100%;
+    border-width: 0px 0px 0px 5px;
+    display: inline-flex;
+    background-color: darkgrey;
+    margin: 10px;
+    width: 31%;
+    background: linear-gradient(0deg, #cfcfcf 55%, rgb(242, 87, 4) 45%);
+}
+/*set role card list style */
+.roleCardIntern li{
+    list-style: none;
+    background-color: white;
+    width: 300px;
+    border: solid;
+    border-width: 1px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
