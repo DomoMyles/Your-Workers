@@ -7,6 +7,10 @@ A good use for this application would be to display all the workers on on screen
 screenshot:
 ./assets/picture1.JPG
 
+Video:
+./assets/Video1.mkv
+
 
 
 deployed link:
+https://domomyles.github.io/Your-Workers/
