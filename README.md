@@ -17,4 +17,4 @@ Screenshot:
 ![Picture of website](./assets/picture1.png)
 
 Video:
-[![Video](./assets/picture1.png)(https://youtu.be/Bc4CGDOSGrE)]
+[![Video](./assets/picture1.png)](https://youtu.be/Bc4CGDOSGrE)
